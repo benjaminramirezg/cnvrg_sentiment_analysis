@@ -1,0 +1,5 @@
+numpy
+pandas
+tensorflow-cpu>=2.2.0
+#uncomment bellow and comment above to train on a GPU 
+#tensorflow>=2.2.0
